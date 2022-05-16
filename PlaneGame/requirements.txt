@@ -1,0 +1,8 @@
+pygame
+pillow
+baidu-aip
+pyaudio
+pyttsx3
+pypiwin32
+requests
+opencv-python
